@@ -13,7 +13,10 @@
 		The Ruby On Rails Tutorial: Ebooks (free read from online)
 		<a href="https://www.railstutorial.org/book/beginning">https://www.railstutorial.org/book/beginning</a>
 	</li>
-	
+	<li>
+		The Ruby On Rails Tutorial:Website
+		<a href="http://www.tutorialspoint.com/ruby-on-rails/">http://www.tutorialspoint.com/ruby-on-rails/</a>
+	</li>
 </ul>
 
 

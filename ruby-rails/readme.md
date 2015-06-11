@@ -17,6 +17,11 @@
 		The Ruby On Rails Tutorial:Website
 		<a href="http://www.tutorialspoint.com/ruby-on-rails/">http://www.tutorialspoint.com/ruby-on-rails/</a>
 	</li>
+	<li>
+		Rails Girls Guides: tools and a community for women
+		<a href="http://guides.railsgirls.com/">http://guides.railsgirls.com/</a>
+	</li>
+	
 </ul>
 
 
